@@ -1,7 +1,7 @@
 export const dogsData = [
   {
     id: 46,
-    name: "Mitsy",
+    name: "Minnie",
     present: true,
     grade: "60",
     notes: "Stole Prince's toys repeatedly.",
